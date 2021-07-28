@@ -2,9 +2,8 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- :heart:  I mostly work with libraries/frameworks related to JavaScript.
-- 👨‍💻  I’m currently working on a full stack project using Nextjs, TypeScript, Jest, Node, Postgres & Docker.
-- 📚  I used to work on mostly on Frontend technologies 😅
+- :heart:  Mostly work with libraries/frameworks related to JavaScript.
+- 👨‍💻  Currently working on a full stack project using Nextjs, TypeScript, Jest, Node, Postgres & Docker.
 - 💪🏼  Goals: Know what to overlook, focus on the right things.
 
 ---
