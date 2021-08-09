@@ -4,7 +4,6 @@
 
 - :heart:  Mostly work with libraries/frameworks related to JavaScript.
 - 👨‍💻  Currently working on a full stack project using Nextjs, TypeScript, Jest, Node, Postgres & Docker.
-- 💪🏼  Goals: Know what to overlook, focus on the right things.
 
 ---
 
