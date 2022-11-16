@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - :heart:  Mostly work with libraries/frameworks related to JavaScript.
-- 👨‍💻  Currently working on a full stack project using Nextjs, TypeScript, Jest, Node, Postgres & Docker.
+- 👨‍💻  Currently working on a full stack project using Nextjs, TypeScript, Jest, Node & MySQL.
 
 ---
 
